@@ -51,7 +51,7 @@ const Navigation = () => {
           className="flex items-center space-x-3"
         >
           <div className="relative">
-            <img src="/src/assets/dna-icon.png" alt="AquaGenomix Logo" className="w-10 h-10 object-contain" />
+            <img src="/dna-icon.png" alt="AquaGenomix Logo" className="w-10 h-10 object-contain" />
           </div>
           <span className="text-xl font-bold text-gradient-primary">AquaGenomix</span>
         </motion.div>

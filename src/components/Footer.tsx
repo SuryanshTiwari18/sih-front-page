@@ -88,7 +88,7 @@ const Footer = () => {
             className="flex items-center space-x-3"
           >
             <div className="w-8 h-8">
-              <img src="/src/assets/dna-icon.png" alt="DNA Icon" className="w-full h-full object-contain" />
+              <img src="/dna-icon.png" alt="DNA Icon" className="w-full h-full object-contain" />
             </div>
             <span className="text-sm text-muted-foreground">
               Created By Team <b>Abyss</b>
