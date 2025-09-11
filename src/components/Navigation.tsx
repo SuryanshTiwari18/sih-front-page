@@ -51,12 +51,9 @@ const Navigation = () => {
           className="flex items-center space-x-3"
         >
           <div className="relative">
-            <div className="w-10 h-10 bg-gradient-button rounded-xl flex items-center justify-center">
-              <div className="w-3 h-3 bg-primary-foreground rounded-full"></div>
-            </div>
-            <div className="absolute -top-1 -right-1 w-4 h-4 bg-accent rounded-full glow-accent animate-pulse-glow"></div>
+            <img src="/src/assets/dna-icon.png" alt="AquaGenomix Logo" className="w-10 h-10 object-contain" />
           </div>
-          <span className="text-xl font-bold text-gradient-primary">Taxo Lab</span>
+          <span className="text-xl font-bold text-gradient-primary">AquaGenomix</span>
         </motion.div>
 
         {/* Desktop Navigation */}

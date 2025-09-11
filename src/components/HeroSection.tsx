@@ -40,9 +40,9 @@ const HeroSection = () => {
               transition={{ duration: 0.6, delay: 0.4 }}
               className="text-xl text-muted-foreground leading-relaxed max-w-2xl"
             >
-              Revolutionary AI-driven platform using Zonal HNSW algorithm to identify 
-              taxonomy and assess biodiversity from environmental DNA datasets. Discover 
-              the unknown depths of marine life with unprecedented speed and accuracy.
+              Advanced platform combining transformer-based deep learning and k-mer analysis
+              with Zonal HNSW algorithm to decode marine biodiversity from eDNA sequences.
+              Discover unknown species with state-of-the-art accuracy and speed.
             </motion.p>
 
             <motion.div

@@ -87,11 +87,11 @@ const Footer = () => {
             viewport={{ once: true }}
             className="flex items-center space-x-3"
           >
-            <div className="w-8 h-8 bg-gradient-button rounded-lg flex items-center justify-center">
-              <div className="w-2 h-2 bg-primary-foreground rounded-full"></div>
+            <div className="w-8 h-8">
+              <img src="/src/assets/dna-icon.png" alt="DNA Icon" className="w-full h-full object-contain" />
             </div>
             <span className="text-sm text-muted-foreground">
-              Created By Team <b>Helix</b>
+              Created By Team <b>Abyss</b>
             </span>
           </motion.div>
 

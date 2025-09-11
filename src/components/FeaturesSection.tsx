@@ -60,9 +60,9 @@ const FeaturesSection = () => {
     },
     {
       icon: <Microscope className="w-8 h-8 text-accent-foreground" />,
-      title: "Novel Species Discovery",
-      description: "Advanced algorithms to identify taxonomy previously unknown deep-sea species, filling critical gaps in marine biodiversity databases.",
-      metrics: "1,240+ new species catalogued",
+      title: "Advanced DNA Analysis",
+      description: "Transformer-based deep learning combined with k-mer sequence analysis for precise taxonomic classification of unknown marine species.",
+      metrics: "95% accuracy on novel species identification",
       delay: 0.6
     }
   ];
@@ -81,10 +81,10 @@ const FeaturesSection = () => {
           className="text-center mb-16"
         >
           <h2 className="text-4xl lg:text-5xl font-bold mb-6">
-            Revolutionary <span className="text-gradient-hero">ZHNSW Technology</span>
+            Advanced <span className="text-gradient-hero">AI-Powered Analysis</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Solving the database limitation problem in deep-sea biodiversity research
+            Combining transformer models, k-mer analysis, and ZHNSW for cutting-edge marine biodiversity research
           </p>
         </motion.div>
 
